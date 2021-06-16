@@ -37,27 +37,15 @@ please visit the HTML version or download the PDF.
 ::: {.editor .Prosemirror}
 Abstract
 --------
+Abstract
 
-We study the question of how wireless, self-contained CMOS-synthesizers
-with built-in speakers can be used to achieve low-threshold operability
-of multichannel sound fields. We deliberately use low-tech and DIY
-approaches to build simple sound modules for music interaction and
-education in order to ensure accessibility of the technology. The
-modules are operated by wireless power transfer (WPT). A multichannel
-sound field can be easily generated and modulated by placing several
-sound objects in proximity to the induction coils. Alterations in sound
-are caused by repositioning, moving or grouping the sound modules.
-Although not physically linked to each other, the objects start
-interacting electro-acoustically when they share the same magnetic
-field. Because they are equipped with electronic sound generators and
-transducers, the sound modules can work independently from a sound
-studio situation.
+We study the question of how wireless, self-contained CMOS-synthesizers with built-in speakers can be used to achieve low-threshold operability of multichannel sound fields. We deliberately use low-tech and DIY approaches to build simple sound modules for music interaction and education in order to ensure accessibility of the technology. The modules are operated by wireless power transfer (WPT). A multichannel sound field can be easily generated and modulated by placing several
+sound objects in proximity to the induction coils. Alterations in sound are caused by repositioning, moving or grouping the sound modules. Although not physically linked to each other, the objects start interacting electro-acoustically when they share the same magnetic field. Because they are equipped with electronic sound generators and transducers, the sound modules can work independently from a sound studio situation.
 
 Author Keywords
 ---------------
 
-sound art installation, haptic interface, CMOS sound, wireless power
-transfer
+sound art installation, haptic interface, CMOS sound, wireless power transfer
 
 CCS Concepts
 ------------
@@ -69,60 +57,19 @@ and hand-based interfaces** → Haptic devices;
 Introduction
 ============
 
-The work presented here evolved from an art project that examined
-extended features and new design aspects of tables. During the
-development phase, transmission coils for wireless power transfer (WPT)
-were integrated into the tabletop. Playful experiments were conducted to
-investigate the impact of the electromagnetic field on inductive
-receiver devices by simply placing them on a surface above the
-transmitting coils. A simple voltage- and current-coupled modulation
-method was observed. Variations in the induced voltage of the receiver
-coils were used to influence the behavior of CMOS[1]{#n0hgh3achry
-.footnote node-type="footnote"
-data-value="<p id=\"n1h2q8s16ym\">Complementary metal-oxide semiconductor, a technology used to fabricate the logic family of integrated circuits (ICs) with the same name.</p>"
-date-structured-value=""} audio circuits. In the further course of the
-project, we integrated this effect into a series of objects, wireless
-sound modules, which are presented as an interactive sound art
-installation.
+The work presented here evolved from an art project that examined extended features and new design aspects of tables. During the development phase, transmission coils for wireless power transfer (WPT) were integrated into the tabletop. Playful experiments were conducted to investigate the impact of the electromagnetic field on inductive receiver devices by simply placing them on a surface above the transmitting coils. A simple voltage- and current-coupled modulation
+method was observed. Variations in the induced voltage of the receiver coils were used to influence the behavior of CMOS audio circuits. CMOS, complementary metal-oxide semiconductor, is a technology used to fabricate the logic family of integrated circuits (ICs) with the same name. In the further course of the project, we integrated this effect into a series of objects, wireless sound modules, which are presented as an interactive sound art installation.
 
 Playability of New Instruments
 ==============================
 
-Operating a musical instrument on an advanced level requires previously
-acquired skills and an understanding about a) how to produce sound (fine
-motor skills) and b) how to structure the sound in a musical
-way[\[1\]]{#n0fnonoh6bv .citation node-type="citation" data-value=""
-unstructured-value="<p id=\"nlsnbb8h9xd\">S. Papetti and C. Saitis. Musical Haptics: Introduction in Musical Haptics. Springer, 2018.</p>"}.
-Digital musical instruments, embedded systems or controller interfaces
-represent freely configurable systems which provide their digital
-functions in rarely self-explanatory ways. A range of projects and
-approaches addresses this issue such as the Reactable or Block
-Jam[\[2\]]{#n065wvrnz8j .citation node-type="citation" data-value=""
-unstructured-value="<p id=\"nbk5chnf0i5\">S. Jordà, G. Geiger, M. Alonso, &amp; M. Kaltenbrunner. The ReacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded Interaction (pp. 139–146). ACM, 2007.</p>"}.
-In a similar way, parameters of analog synthesizers are mostly not
-self-explanatory; due to the combinatorial complexity of modular
-systems, it is also not obvious how underlying synthesis technique and
-control voltages integrate into a module's circuit.
+Operating a musical instrument on an advanced level requires previously acquired skills and an understanding about a) how to produce sound (fine motor skills) and b) how to structure the sound in a musical way. Digital musical instruments, embedded systems or controller interfaces represent freely configurable systems which provide their digital functions in rarely self-explanatory ways. A range of projects and approaches addresses this issue such as the Reactable or Block Jam.
 
-Exploring the functions by merely tweaking knobs, listening to the
-resulting sound and trying to understand the relation between controller
-elements and synthesis is intuitive on a beginner's level, but becomes
-tedious when an advanced level is aimed for. Furthermore, many
-electronic instruments require a technical environment that provides
-signal mixing, amplification, audio playback or MIDI controllers, etc.,
-to be operated. These are some of the reasons why such new instruments
-obtain only little acceptance and have in many cases no further
-circulation[\[3\]]{#n7xqnd2zavm .citation node-type="citation"
-data-value=""
-unstructured-value="<p id=\"n0gtihxnt9q\">S. Jordà. Digital Instruments and Players: Part I – Efficiency and Apprenticeship. In Proceedings of New Interfaces for Musical Expression (NIME), Hamamatsu, Japan, 2005.</p>"}.
+In a similar way, parameters of analog synthesizers are mostly not self-explanatory; due to the combinatorial complexity of modular systems, it is also not obvious how underlying synthesis technique and control voltages integrate into a module's circuit.
 
-The work presented here avoids some of these problems by keeping
-everything low-tech and self-contained. Sonic expression can be
-anticipated playfully by allowing the musician to interact with the
-objects. Since the interaction is directly related to the spatial
-position within a magnetic field, the sound responds dynamically to
-positional changes. This process can be understood intuitively by the
-performer.
+Exploring the functions by merely tweaking knobs, listening to the resulting sound and trying to understand the relation between controller elements and synthesis is intuitive on a beginner's level, but becomes tedious when an advanced level is aimed for. Furthermore, many electronic instruments require a technical environment that provides signal mixing, amplification, audio playback or MIDI controllers, etc., to be operated. These are some of the reasons why such new instruments obtain only little acceptance and have in many cases no further circulation.
+
+The work presented here avoids some of these problems by keeping everything low-tech and self-contained. Sonic expression can be anticipated playfully by allowing the musician to interact with the objects. Since the interaction is directly related to the spatial position within a magnetic field, the sound responds dynamically to positional changes. This process can be understood intuitively by the performer.
 
 Hardware
 ========
@@ -130,23 +77,9 @@ Hardware
 Wireless Power Transfer (WPT)
 -----------------------------
 
-The core concept of our approach was to build wireless sound modules.
-Non-sophisticated music electronics are used to generate audio signals,
-while transducers are integrated into the module's casing. The modules
-are powered by induction coils (see Figure 1). WPT is based on the
-following principle: a power supply driving a circuit that generates an
-alternating current which, in turn, is transmitted to a flat spiral
-coil. Voltage is induced into the receiver coil by electromagnetic
-induction; the voltage is then rectified to enable it to drive another
-circuit[\[4\]]{#ni0jpv8b3j8 .citation node-type="citation" data-value=""
-unstructured-value="<p id=\"ny4jvip6zvr\">JI. Agbinya. Wireless Power Transfer, River Publishers Denmark, 2012.</p>"}.
-This method is implemented in standards like Qi. Due to its limited
-range, the induction method is mainly used for charging the rechargeable
-batteries of hand-held devices. This magnetic field exists only close to
-the transmitter coil and is thus called a "near field". According to the
-inverse-square law, the both coils should have a parallel orientation to
-one another and should be placed in close proximity to achieve best
-inductive coupling for high efficiency.
+The core concept of our approach was to build wireless sound modules. Non-sophisticated music electronics are used to generate audio signals, while transducers are integrated into the module's casing. The modules are powered by induction coils (see Figure 1). WPT is based on the following principle: a power supply driving a circuit that generates an alternating current which, in turn, is transmitted to a flat spiral coil. Voltage is induced into the receiver coil by electromagnetic induction; the voltage is then rectified to enable it to drive another circuit.
+
+This method is implemented in standards like Qi. Due to its limited range, the induction method is mainly used for charging the rechargeable batteries of hand-held devices. This magnetic field exists only close to the transmitter coil and is thus called a "near field". According to the inverse-square law, the both coils should have a parallel orientation to one another and should be placed in close proximity to achieve best inductive coupling for high efficiency.
 
 \
 
