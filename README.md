@@ -78,10 +78,7 @@ The core concept of our approach was to build wireless sound modules. Non-sophis
 
 This method is implemented in standards like Qi. Due to its limited range, the induction method is mainly used for charging the rechargeable batteries of hand-held devices. This magnetic field exists only close to the transmitter coil and is thus called a "near field". According to the inverse-square law, the both coils should have a parallel orientation to one another and should be placed in close proximity to achieve best inductive coupling for high efficiency.
 
-\
 
-![Figure 1: Simplified representation of a wireless powered sound
-module.]
 
 ![Figure 1](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
 *Figure 1: Simplified representation of a wireless powered sound
@@ -92,9 +89,9 @@ Audio Circuits
 
 Sound synthesis is carried out by CMOS ICs (see Figure 2). Their actual fields of applications are binary logic operations. The artistic and musical use of these well understood circuits is comprehensively described by Nicolas Collins in his book "Handmade electronic music". Within the community, these circuits are called "Lunettas", Named after Stanley Lunetta, California-based artist and educator, whose sound sculptures are based on logic circuits and many examples can be found on the internet in various forums. Logic circuits can be set up in a building block approach to generate and process sound. Their construction only requires a basic understanding of electronics. Since logic ICs don\'t need much external wiring, space-saving methods like the dead bug construction, where direct connections between the circuit points are made without a PCB, can be used.
 
-![Figure 2: CMOS audio circuit and
-loudspeaker.]
 
+![Figure 2](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
+*Figure 2: CMOS audio circuit and loudspeaker.*
 
 Loudspeakers and Enclosures
 ---------------------------
@@ -102,8 +99,9 @@ Loudspeakers and Enclosures
 Various techniques were examined for sound production (see Figure 2). The concept of electromagnetic induction as a conventional operating
 principle for electro-acoustic transducers was implemented here. The ubiquitous power operational amplifier LM386 and compact off-the-shelf full-range speakers were used. Each object functions as a sealed chamber for a single dynamic loudspeaker. We used 3D printing as an effective method to create various shapes, tailored to the needs of our application (e.g., form factor, PCB sizes, mounting holes for loudspeakers; see Figure 3).
 
-![Figure 3: 3D-printed
-objects.]
+![Figure 3](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
+*Figure 3: 3D-printed objects.*
+
 
 Modulation Technique and Interaction Possibilities
 ==================================================
@@ -114,22 +112,26 @@ Since the efficiency of the WPT is a function of the distance between the transm
 
 The direct relation between the physical parameters of the induction field and the sound provides the user with audible feedback. There are certain similarities to the theremin, an early electronic musical instrument, although the theremin is played without touch, i.e., without haptic modality. Nevertheless, when playing the theremin, fine motor skills are necessary to move one's hand in a controlled manner within an electric field to change pitch and volume. This "sensing" concept of the theremin is based on capacitive coupling between two electrodes, the hand and an "antenna".
 
-![Figure 4: Relation between the supply voltage and the frequency of the oscillator.]
-
+![Figure 4](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
+*Figure 4: Relation between the supply voltage and the frequency of the oscillator.*
 
 To play with the sound on the instrument presented here, the objects can be tilted or even held above the magnetic field, which works at up to a distance of approximately 2.5\". For example, the frequency of the oscillators increases with distance while the amplitude falls (see Figure 4). If several objects are placed into the same magnetic field, the chips start "battling" for the available power. In CMOS technology, power consumption increases at higher switching
 rates.
 
-![Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.]
+
+![Figure 5](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
+*Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.*
 
 If the current capacities are limited, interesting cross modulations and vivid interactions among the modules can be observed (see Figure 5). Within the DIY music community, this phenomenon is colloquially termed "voltage starve" and affects pitch, texture and sound. “Voltage sag”, simulating the under-voltage and limited current-delivery capacities of a dying battery in guitar pedalboards, is used for musical distortion. The circuits are configured so that, with a stable power supply, they produce slow clicking sounds, drones, textures, pulse-modulated square waves etc. From a compositional point of view, the circuits inside of each object can be seen as predefined tracks or individual "voices" that can be faded in or out and modulated as described.
 
-\
+
 
 Link to audio-visual documentation:\
 <https://vimeo.com/535452290>\
 
-![Figure 6: Interactive sound art installation based on inductive power.]
+
+![Figure 6](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
+*Figure 6: Interactive sound art installation based on inductive power.*
 
 Conclusions
 ===========
