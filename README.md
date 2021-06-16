@@ -210,6 +210,6 @@ Citations
 Links
 =========
 
-<http://beavisaudio.com/techpages/poweringpedals/>
-    <https://electro-music.com/forum/forum-160.html>
-        <http://moosack.net/stang/sculpts.html>
+<http://beavisaudio.com/techpages/poweringpedals/>  
+    <https://electro-music.com/forum/forum-160.html>  
+        <http://moosack.net/stang/sculpts.html>  
