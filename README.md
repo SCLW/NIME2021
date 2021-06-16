@@ -1,11 +1,12 @@
 
 
-journal: International Conference on New Interfaces for Musical Expression. NIME 2021  
-
----
  
 
 <img src="https://github.com/SCLW/NIME2021/blob/main/img/210515_Nime_16x9_04.JPG">
+---
+
+journal: International Conference on New Interfaces for Musical Expression. NIME 2021  
+
 
 ---
 Authors:
