@@ -168,8 +168,9 @@ Citations
 11. C-T. Sah. Fundamentals of Solid-state Electronics. World Scientific Publishing, Singapore, 1993.
 
 Pubpub
-https://nime.pubpub.org/pub/muvvx0y5/release/2
 
+
+[Link to Pub](https://nime.pubpub.org/pub/muvvx0y5/release/2 "Wireless Sound Modules") 
 
 Links
 =========
