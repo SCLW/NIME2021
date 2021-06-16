@@ -26,7 +26,7 @@ Date: April 29, 2021
 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
-------------------------------------------------------------------------
+
 
 # Wireless Sound Modules 
 Abstract
