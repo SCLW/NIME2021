@@ -1,4 +1,4 @@
-# Wireless Sound Modules 
+
 
 journal: International Conference on New Interfaces for Musical Expression. NIME 2021  
 
@@ -32,7 +32,7 @@ Date: April 29, 2021
 
 </div>
 
-
+# Wireless Sound Modules 
 Abstract
 --------
 
