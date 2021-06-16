@@ -83,7 +83,7 @@ This method is implemented in standards like Qi. Due to its limited range, the i
 ![Figure 1: Simplified representation of a wireless powered sound
 module.]
 
-![Figure 1](https://github.com/SCLW/Circuitry-Based-Sound/blob/master/img/CMOS-chips.jpg)
+![Figure 1](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
 *Figure 1: Simplified representation of a wireless powered sound
 module.*
 
