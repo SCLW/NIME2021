@@ -108,7 +108,7 @@ Modulation Technique and Interaction Possibilities
 
 Since our objects are not equipped with conventional control elements like rotary knobs, sliders, touch-sensitive surfaces or the likes, the performer of the instrument feels unaccustomed to its operation. When the objects are placed into the magnetic field of the current-carrying induction coils, integrated into a table, the circuits are put into operation and produce sound that is played back via the built-in loudspeakers.
 
-Since the efficiency of the WPT is a function of the distance between the transmitting and the receiving coil, moving the objects causes variations in the supplied power, which affects the overall performance of the circuit's behavior and therefore modulates the sound synthesis process. For example, in Schmitt trigger oscillators, the supply voltage  determines the hysteresis thresholds  and  and thus the frequency, which the following equation shows:
+Since the efficiency of the WPT is a function of the distance between the transmitting and the receiving coil, moving the objects causes variations in the supplied power, which affects the overall performance of the circuit's behavior and therefore modulates the sound synthesis process. For example, in Schmitt trigger oscillators, the supply voltage V<sub>DD</sub> determines the hysteresis thresholds V<sub>P</sub> and V<sub>N</sub> and thus the frequency, which the following equation shows:
 
 ![Formula](https://github.com/SCLW/NIME2021/blob/main/img/Formula.jpg)
 
