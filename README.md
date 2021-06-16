@@ -16,10 +16,8 @@ copyright:
   text: Creative Commons Attribution 4.0 International License  
   type: 'CC-BY'  
   
-date: 'April 29, 2021' 
+date: April 29, 2021
 
-    
-lang: en. 
 
 
 ---
