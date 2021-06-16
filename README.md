@@ -111,7 +111,8 @@ Since our objects are not equipped with conventional control elements like rotar
 Since the efficiency of the WPT is a function of the distance between the transmitting and the receiving coil, moving the objects causes variations in the supplied power, which affects the overall performance of the circuit's behavior and therefore modulates the sound synthesis process. For example, in Schmitt trigger oscillators, the supply voltage V<sub>DD</sub> determines the hysteresis thresholds V<sub>P</sub> and V<sub>N</sub> and thus the frequency, which the following equation shows:
 
 ![Formula](https://github.com/SCLW/NIME2021/blob/main/img/Formula.jpg)
-*Where V<sub>H</sub> is the difference between the positive-going travelling voltage V<sub>P</sub> and the negative-going travelling voltages V<sub>N</sub>.*
+*Where t is one complete cycle, R the resistance, C the capacitance and ln the natural logarithm. The difference between the positive-going travelling voltage V<sub>P</sub> and the negative-going travelling voltages V<sub>N</sub> is V<sub>H</sub>.*
+
 
 The direct relation between the physical parameters of the induction field and the sound provides the user with audible feedback. There are certain similarities to the theremin, an early electronic musical instrument, although the theremin is played without touch, i.e., without haptic modality. Nevertheless, when playing the theremin, fine motor skills are necessary to move one's hand in a controlled manner within an electric field to change pitch and volume. This "sensing" concept of the theremin is based on capacitive coupling between two electrodes, the hand and an "antenna".
 
@@ -153,41 +154,6 @@ We are deeply thankful to Holger Förterer and Dr. Paul Modler at
 Karlsruhe University of Arts and Design for their constant encouragement
 and support.
 
-
-Footnotes
-=========
-
-1. Complementary metal-oxide semiconductor, a technology used to fabricate the logic family of integrated circuits (ICs) with the same name.
-
-
-2.  
-    Named after Stanley Lunetta, California-based artist and educator,
-    whose sound sculptures are based on logic circuits:
-
-
-
-
-3.  
-
-
-
-
-4. 
-    V\_{ H } is the difference between the positive-going travelling
-    voltage V\_{ P } and the negative-going travelling voltages V\_{ N
-    }.
-
-
-5. 
-    Where *t* is one complete cycle, *R* the resistance, *C* the
-    capacitance and *ln* the natural logarithm.
-
-
-6. 
-    "Voltage sag", simulating the under-voltage and limited
-    current-delivery capacities of a dying battery in guitar
-    pedalboards, is used for musical distortion:
-    <http://beavisaudio.com/techpages/poweringpedals/>
 
 
 Citations
