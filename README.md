@@ -111,7 +111,7 @@ Since our objects are not equipped with conventional control elements like rotar
 Since the efficiency of the WPT is a function of the distance between the transmitting and the receiving coil, moving the objects causes variations in the supplied power, which affects the overall performance of the circuit's behavior and therefore modulates the sound synthesis process. For example, in Schmitt trigger oscillators, the supply voltage V<sub>DD</sub> determines the hysteresis thresholds V<sub>P</sub> and V<sub>N</sub> and thus the frequency, which the following equation shows:
 
 ![Formula](https://github.com/SCLW/NIME2021/blob/main/img/Formula.jpg)
-*Where t is one complete cycle, R the resistance, C the capacitance and ln the natural logarithm. The difference between the positive-going travelling voltage V<sub>P</sub> and the negative-going travelling voltages V<sub>N</sub> is V<sub>H</sub>.*
+*Where t is one complete cycle, R the resistance, C the capacitance and ln the natural logarithm. The difference between the positive-going travelling voltage V<sub>P</sub> and the negative-going travelling voltages V<sub>N</sub> is the threshold voltage V<sub>H</sub>.*
 
 
 The direct relation between the physical parameters of the induction field and the sound provides the user with audible feedback. There are certain similarities to the theremin, an early electronic musical instrument, although the theremin is played without touch, i.e., without haptic modality. Nevertheless, when playing the theremin, fine motor skills are necessary to move one's hand in a controlled manner within an electric field to change pitch and volume. This "sensing" concept of the theremin is based on capacitive coupling between two electrodes, the hand and an "antenna".
