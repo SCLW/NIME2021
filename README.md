@@ -2,7 +2,7 @@
 
 journal: International Conference on New Interfaces for Musical Expression. NIME 2021  
 
-date: 'April 29, 2021'  
+ 
 
 <img src="https://github.com/SCLW/NIME2021/blob/main/img/210515_Nime_16x9_04.JPG">
 
@@ -15,7 +15,8 @@ copyright:
   link: 'https://creativecommons.org/licenses/by/4.0/'  
   text: Creative Commons Attribution 4.0 International License  
   type: 'CC-BY'  
-
+  
+date: 'April 29, 2021' 
 
     
 lang: en. 
