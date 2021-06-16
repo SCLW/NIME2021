@@ -12,9 +12,9 @@ Author:
 - Lorenz Schwarz
 
 Copyright:  
-  link: 'https://creativecommons.org/licenses/by/4.0/'  
-  text: Creative Commons Attribution 4.0 International License  
-  type: 'CC-BY'  
+*Tabspace* link: 'https://creativecommons.org/licenses/by/4.0/'  
+*Tabspace* text: Creative Commons Attribution 4.0 International License  
+*Tabspace* type: 'CC-BY'  
   
 Date: April 29, 2021
 
