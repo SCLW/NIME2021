@@ -167,6 +167,8 @@ Citations
 10. M. Sauer. Die Thereminvox: Konstruktion, Geschichte, Werke, epOs Music, Osnabrück, 2008.
 11. C-T. Sah. Fundamentals of Solid-state Electronics. World Scientific Publishing, Singapore, 1993.
 
+Pubpub
+https://nime.pubpub.org/pub/muvvx0y5/release/2
 
 
 Links
