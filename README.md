@@ -99,7 +99,7 @@ Loudspeakers and Enclosures
 Various techniques were examined for sound production (see Figure 2). The concept of electromagnetic induction as a conventional operating
 principle for electro-acoustic transducers was implemented here. The ubiquitous power operational amplifier LM386 and compact off-the-shelf full-range speakers were used. Each object functions as a sealed chamber for a single dynamic loudspeaker. We used 3D printing as an effective method to create various shapes, tailored to the needs of our application (e.g., form factor, PCB sizes, mounting holes for loudspeakers; see Figure 3).
 
-![Figure 3](https://github.com/SCLW/NIME2021/blob/main/img/Fig02.jpg)
+![Figure 3](https://github.com/SCLW/NIME2021/blob/main/img/Fig03.jpg)
 *Figure 3: 3D-printed objects.*
 
 
