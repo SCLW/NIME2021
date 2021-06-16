@@ -127,7 +127,7 @@ If the current capacities are limited, interesting cross modulations and vivid i
 
 
 Link to audio-visual documentation:\
-<https://vimeo.com/535452290>\
+<https://vimeo.com/535452290>
 
 
 ![Figure 6](https://github.com/SCLW/NIME2021/blob/main/img/Fig06.jpg)
