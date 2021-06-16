@@ -9,17 +9,17 @@ author:
 - Vivian Reuter
 - Lorenz Schwarz
 
-copyright:
+copyright:  
   link: 'https://creativecommons.org/licenses/by/4.0/'  
   text: Creative Commons Attribution 4.0 International License  
   type: 'CC-BY'  
-date: 'Apr 29, 2021'  
+date: 'June 15, 2021'  
 
 journal: International Conference on New Interfaces for Musical Expression  
     
 lang: en. 
 
-title: Wireless Sound Modules. 
+Wireless Sound Modules. 
 ---
 
 
@@ -35,7 +35,6 @@ title: Wireless Sound Modules.
 
 Abstract
 --------
-Abstract
 
 We study the question of how wireless, self-contained CMOS-synthesizers with built-in speakers can be used to achieve low-threshold operability of multichannel sound fields. We deliberately use low-tech and DIY approaches to build simple sound modules for music interaction and education in order to ensure accessibility of the technology. The modules are operated by wireless power transfer (WPT). A multichannel sound field can be easily generated and modulated by placing several
 sound objects in proximity to the induction coils. Alterations in sound are caused by repositioning, moving or grouping the sound modules. Although not physically linked to each other, the objects start interacting electro-acoustically when they share the same magnetic field. Because they are equipped with electronic sound generators and transducers, the sound modules can work independently from a sound studio situation.
@@ -87,9 +86,7 @@ module.]
 Audio Circuits
 --------------
 
-Sound synthesis is carried out by CMOS ICs (see Figure 2). Their actual fields of applications are binary logic operations. The artistic and musical use of these well understood circuits is comprehensively described by Nicolas Collins in his book "Handmade electronic music".
-Within the community, these circuits are called
-"Lunettas", Named after Stanley Lunetta, California-based artist and educator, whose sound sculptures are based on logic circuits and many examples can be found on the internet in various forums. Logic circuits can be set up in a building block approach to generate and process sound. Their construction only requires a basic understanding of electronics. Since logic ICs don\'t need much external wiring, space-saving methods like the dead bug construction, where direct connections between the circuit points are made without a PCB, can be used.
+Sound synthesis is carried out by CMOS ICs (see Figure 2). Their actual fields of applications are binary logic operations. The artistic and musical use of these well understood circuits is comprehensively described by Nicolas Collins in his book "Handmade electronic music". Within the community, these circuits are called "Lunettas", Named after Stanley Lunetta, California-based artist and educator, whose sound sculptures are based on logic circuits and many examples can be found on the internet in various forums. Logic circuits can be set up in a building block approach to generate and process sound. Their construction only requires a basic understanding of electronics. Since logic ICs don\'t need much external wiring, space-saving methods like the dead bug construction, where direct connections between the circuit points are made without a PCB, can be used.
 
 ![Figure 2: CMOS audio circuit and
 loudspeaker.]
@@ -110,8 +107,6 @@ Modulation Technique and Interaction Possibilities
 Since our objects are not equipped with conventional control elements like rotary knobs, sliders, touch-sensitive surfaces or the likes, the performer of the instrument feels unaccustomed to its operation. When the objects are placed into the magnetic field of the current-carrying induction coils, integrated into a table, the circuits are put into operation and produce sound that is played back via the built-in loudspeakers.
 
 Since the efficiency of the WPT is a function of the distance between the transmitting and the receiving coil, moving the objects causes variations in the supplied power, which affects the overall performance of the circuit's behavior and therefore modulates the sound synthesis process. For example, in Schmitt trigger oscillators, the supply voltage  determines the hysteresis thresholds  and  and thus the frequency, which the following equation shows:
-
-
 
 The direct relation between the physical parameters of the induction field and the sound provides the user with audible feedback. There are certain similarities to the theremin, an early electronic musical instrument, although the theremin is played without touch, i.e., without haptic modality. Nevertheless, when playing the theremin, fine motor skills are necessary to move one's hand in a controlled manner within an electric field to change pitch and volume. This "sensing" concept of the theremin is based on capacitive coupling between two electrodes, the hand and an "antenna".
 
@@ -159,13 +154,13 @@ Footnotes
 2.  
     Named after Stanley Lunetta, California-based artist and educator,
     whose sound sculptures are based on logic circuits:
-    <http://moosack.net/stang/sculpts.html>
+
 
 
 
 3.  
 
-    <https://electro-music.com/forum/forum-160.html>
+
 
 
 4. 
@@ -200,6 +195,12 @@ Citations
 9. CD40106B CMOS Hex Schmitt-Trigger Inverters, SCHS097F, Texas Instruments, 2017.
 10. M. Sauer. Die Thereminvox: Konstruktion, Geschichte, Werke, epOs Music, Osnabrück, 2008.
 11. C-T. Sah. Fundamentals of Solid-state Electronics. World Scientific Publishing, Singapore, 1993.
-:::
-:::
-:::
+
+
+
+Links
+=========
+
+<http://beavisaudio.com/techpages/poweringpedals/>
+    <https://electro-music.com/forum/forum-160.html>
+        <http://moosack.net/stang/sculpts.html>
