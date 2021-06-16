@@ -8,7 +8,7 @@
 
 ---
 
-journal: International Conference on New Interfaces for Musical Expression. NIME 2021  
+**Journal: International Conference on New Interfaces for Musical Expression. NIME 2021**  
 
 Authors:
 - Vivian Reuter
