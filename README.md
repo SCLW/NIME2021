@@ -10,11 +10,12 @@
 
 **Journal: International Conference on New Interfaces for Musical Expression. NIME 2021**  
 
-Authors:  
+Authors: 
 - Vivian Reuter, Karlsruhe University of Arts and Design (HfG)
 - Lorenz Schwarz, Karlsruhe University of Arts and Design (HfG)
 
 Copyright:  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;link: 'https://creativecommons.org/licenses/by/4.0/'  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text: Creative Commons Attribution 4.0 International License  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;type: 'CC-BY'  
