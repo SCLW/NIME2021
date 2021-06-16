@@ -8,21 +8,22 @@
 author:
 - Vivian Reuter
 - Lorenz Schwarz
+
 copyright:
-  link: 'https://creativecommons.org/licenses/by/4.0/'
-  text: Creative Commons Attribution 4.0 International License
-  type: 'CC-BY'
-date: 'Apr 29, 2021'
-journal:
-  title: International Conference on New Interfaces for Musical
-    Expression
-lang: en
-title: Wireless Sound Modules
+  link: 'https://creativecommons.org/licenses/by/4.0/'  
+  text: Creative Commons Attribution 4.0 International License  
+  type: 'CC-BY'  
+date: 'Apr 29, 2021'  
+
+journal:  
+  title: International Conference on New Interfaces for Musical  
+    Expression  
+    
+lang: en. 
+
+title: Wireless Sound Modules. 
 ---
 
-**Notice:** This file is an auto-generated download and, as such, might
-include minor display or rendering errors. For the version of record,
-please visit the HTML version or download the PDF.
 
 ------------------------------------------------------------------------
 
