@@ -20,17 +20,13 @@ Copyright:
 Date: April 29, 2021
 
 
-
-
-
-------------------------------------------------------------------------
-
 <div>
 
 **License:** [Creative Commons Attribution 4.0 International License
 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
+------------------------------------------------------------------------
 
 # Wireless Sound Modules 
 Abstract
