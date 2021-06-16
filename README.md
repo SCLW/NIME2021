@@ -7,16 +7,16 @@ journal: International Conference on New Interfaces for Musical Expression. NIME
 <img src="https://github.com/SCLW/NIME2021/blob/main/img/210515_Nime_16x9_04.JPG">
 
 ---
-author:
+Author:
 - Vivian Reuter
 - Lorenz Schwarz
 
-copyright:  
+Copyright:  
   link: 'https://creativecommons.org/licenses/by/4.0/'  
   text: Creative Commons Attribution 4.0 International License  
   type: 'CC-BY'  
   
-date: April 29, 2021
+Date: April 29, 2021
 
 
 
