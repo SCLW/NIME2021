@@ -5,7 +5,7 @@
 <img src="https://github.com/SCLW/NIME2021/blob/main/img/210515_Nime_16x9_04.JPG">
 
 ![NIME_Poster](https://github.com/SCLW/NIME2021/blob/main/img/210515_Nime_16x9_04.JPG)
-*Graphic Design by Rebecca Zink*
+*Poster Design by Rebecca Zink*
 
 ---
 
