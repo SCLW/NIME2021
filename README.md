@@ -123,8 +123,8 @@ To play with the sound on the instrument presented here, the objects can be tilt
 rates.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/img/Spectrogram_DARK.png">
-  <img alt="Diagramm showing the spectral analaysis of individually generated and cross-modulated sounds." src="/img/Spectrogram_LIGHT.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/img/Spectrogram_DARK.jpg">
+  <img alt="Diagramm showing the spectral analaysis of individually generated and cross-modulated sounds." src="/img/Spectrogram_LIGHT.jpg">
 </picture>
 
 Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.  
