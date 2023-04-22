@@ -110,6 +110,8 @@ Since the efficiency of the WPT is a function of the distance between the transm
 *Where t is one complete cycle, R the resistance, C the capacitance and ln the natural logarithm. The difference between the positive-travelling voltage V<sub>P</sub> and the negative-travelling voltages V<sub>N</sub> is the threshold voltage V<sub>H</sub>.*
 
 
+$f=\frac{1}{T}=\frac{1}{RC ln [(\frac{V_P}{V_N})(\frac{V_{DD}-V_N}{V_{DD}-V_P})]}$
+
 The direct relation between the physical parameters of the induction field and the sound provides the user with audible feedback. There are certain similarities to the theremin, an early electronic musical instrument, although the theremin is played without touch, i.e., without haptic modality. Nevertheless, when playing the theremin, fine motor skills are necessary to move one's hand in a controlled manner within an electric field to change pitch and volume. This "sensing" concept of the theremin is based on capacitive coupling between two electrodes, the hand and an "antenna".
 
 ![Figure 4](https://github.com/SCLW/NIME2021/blob/main/img/Fig04.jpg)
