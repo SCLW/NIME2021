@@ -74,11 +74,16 @@ The core concept of our approach was to build wireless sound modules. Non-sophis
 
 This method is implemented in standards like Qi. Due to its limited range, the induction method is mainly used for charging the rechargeable batteries of hand-held devices. This magnetic field exists only close to the transmitter coil and is thus called a "near field". According to the inverse-square law, the both coils should have a parallel orientation to one another and should be placed in close proximity to achieve best inductive coupling for high efficiency.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/Simplified_WPT_Diagram_DARK.svg">
+  <img alt="Simplified representation of a wireless powered sound module." src="/img/Simplified_WPT_Diagram_LIGHT.svg">
+</picture>
 
-
+<!--
 ![Figure 1](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
 *Figure 1: Simplified representation of a wireless powered sound
 module.*
+-->
 
 Audio Circuits
 --------------
