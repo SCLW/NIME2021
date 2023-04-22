@@ -126,6 +126,7 @@ The direct relation between the physical parameters of the induction field and t
   <source media="(prefers-color-scheme: dark)" srcset="/img/CMOS_f-V_Diagramm_DARK.svg">
   <img alt="Diagramm showing the relation between the supply voltage and the frequency of the oscillator." src="/img/CMOS_f-V_Diagramm_LIGHT.svg">
 </picture>
+
 *Figure 4: Relation between the supply voltage and the frequency of the oscillator.*  
 
 <br>
@@ -137,6 +138,7 @@ rates.
   <source media="(prefers-color-scheme: dark)" srcset="/img/Spectrogram_DARK.png">
   <img alt="Diagramm showing the spectral analaysis of individually generated and cross-modulated sounds." src="/img/Spectrogram_LIGHT.png">
 </picture>
+
 *Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.*  
 
 <br>
