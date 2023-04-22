@@ -78,6 +78,7 @@ This method is implemented in standards like Qi. Due to its limited range, the i
   <source media="(prefers-color-scheme: dark)" srcset="/img/Simplified_WPT_Diagram_DARK.svg">
   <img alt="Simplified representation of a wireless powered sound module." src="/img/Simplified_WPT_Diagram_LIGHT.svg">
 </picture>
+*Figure 1: Simplified representation of a wireless powered sound module.*
 
 <!--
 ![Figure 1](https://github.com/SCLW/NIME2021/blob/main/img/Fig01.jpg)
@@ -122,7 +123,9 @@ The direct relation between the physical parameters of the induction field and t
   <source media="(prefers-color-scheme: dark)" srcset="/img/CMOS_f-V_Diagramm_DARK.svg">
   <img alt="Diagramm showing the relation between the supply voltage and the frequency of the oscillator." src="/img/CMOS_f-V_Diagramm_LIGHT.svg">
 </picture>
-Figure 4: Relation between the supply voltage and the frequency of the oscillator.  
+*Figure 4: Relation between the supply voltage and the frequency of the oscillator.*  
+
+<br>
 
 To play with the sound on the instrument presented here, the objects can be tilted or even held above the magnetic field, which works at up to a distance of approximately 2.5\". For example, the frequency of the oscillators increases with distance while the amplitude falls (see Figure 4). If several objects are placed into the same magnetic field, the chips start "battling" for the available power. In CMOS technology, power consumption increases at higher switching
 rates.
@@ -131,8 +134,9 @@ rates.
   <source media="(prefers-color-scheme: dark)" srcset="/img/Spectrogram_DARK.png">
   <img alt="Diagramm showing the spectral analaysis of individually generated and cross-modulated sounds." src="/img/Spectrogram_LIGHT.png">
 </picture>
+*Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.*  
 
-Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.  
+<br>
 
 <!--
 ![Figure 5](https://github.com/SCLW/NIME2021/blob/main/img/Fig05.jpg)
