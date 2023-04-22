@@ -117,7 +117,7 @@ The direct relation between the physical parameters of the induction field and t
   <source media="(prefers-color-scheme: dark)" srcset="/img/CMOS_f-V_Diagramm_DARK.svg">
   <img alt="Diagramm showing the relation between the supply voltage and the frequency of the oscillator." src="/img/CMOS_f-V_Diagramm_LIGHT.svg">
 </picture>
-*Figure 4: Relation between the supply voltage and the frequency of the oscillator.*
+Figure 4: Relation between the supply voltage and the frequency of the oscillator.  
 
 To play with the sound on the instrument presented here, the objects can be tilted or even held above the magnetic field, which works at up to a distance of approximately 2.5\". For example, the frequency of the oscillators increases with distance while the amplitude falls (see Figure 4). If several objects are placed into the same magnetic field, the chips start "battling" for the available power. In CMOS technology, power consumption increases at higher switching
 rates.
