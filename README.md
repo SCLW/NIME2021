@@ -106,8 +106,7 @@ Since our objects are not equipped with conventional control elements like rotar
 
 Since the efficiency of the WPT is a function of the distance between the transmitting and the receiving coil, moving the objects causes variations in the supplied power, which affects the overall performance of the circuit's behavior and therefore modulates the sound synthesis process. For example, in Schmitt trigger oscillators, the supply voltage V<sub>DD</sub> determines the hysteresis thresholds V<sub>P</sub> and V<sub>N</sub> and thus the frequency, which the following equation shows:
 
-$t=RC ln [(\frac{V_P}{V_N})(\frac{V_{DD}-V_N}{V_{DD}-V_P})]$  
-Where t is one complete cycle, R the resistance, C the capacitance and ln the natural logarithm. The difference between the positive-travelling voltage V<sub>P</sub> and the negative-travelling voltages V<sub>N</sub> is the threshold voltage V<sub>H</sub>.*
+$t=RC ln [(\frac{V_P}{V_N})(\frac{V_{DD}-V_N}{V_{DD}-V_P})]$, Where t is one complete cycle, R the resistance, C the capacitance and *ln* the natural logarithm. The difference between the positive-travelling voltage V<sub>P</sub> and the negative-travelling voltages V<sub>N</sub> is the threshold voltage V<sub>H</sub>.
 
 
 
