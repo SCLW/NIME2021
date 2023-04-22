@@ -126,10 +126,13 @@ rates.
   <source media="(prefers-color-scheme: dark)" srcset="/img/Spectrogram_DARK.png">
   <img alt="Diagramm showing the spectral analaysis of individually generated and cross-modulated sounds." src="/img/Spectrogram_LIGHT.png">
 </picture>
+
 Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.  
 
+<!--
 ![Figure 5](https://github.com/SCLW/NIME2021/blob/main/img/Fig05.jpg)
 *Figure 5: Spectral analaysis of individually generated and cross-modulated sounds.*
+-->
 
 If the current capacities are limited, interesting cross modulations and vivid interactions among the modules can be observed (see Figure 5). Within the DIY music community, this phenomenon is colloquially termed "voltage starve" and affects pitch, texture and sound. “Voltage sag”, simulating the under-voltage and limited current-delivery capacities of a dying battery in guitar pedalboards, is used for musical distortion. The circuits are configured so that, with a stable power supply, they produce slow clicking sounds, drones, textures, pulse-modulated square waves etc. From a compositional point of view, the circuits inside of each object can be seen as predefined tracks or individual "voices" that can be faded in or out and modulated as described.
 
