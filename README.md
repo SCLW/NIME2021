@@ -113,6 +113,12 @@ $t=RC ln [(\frac{V_P}{V_N})(\frac{V_{DD}-V_N}{V_{DD}-V_P})]$, Where t is one com
 
 The direct relation between the physical parameters of the induction field and the sound provides the user with audible feedback. There are certain similarities to the theremin, an early electronic musical instrument, although the theremin is played without touch, i.e., without haptic modality. Nevertheless, when playing the theremin, fine motor skills are necessary to move one's hand in a controlled manner within an electric field to change pitch and volume. This "sensing" concept of the theremin is based on capacitive coupling between two electrodes, the hand and an "antenna".
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/CMOS_f-V_Diagramm_DARK.svg">
+  <img alt="Diagramm showing the relation between the supply voltage and the frequency of the oscillator." src="/img/CMOS_f-V_Diagramm_LIGHT.svg">
+</picture>
+
+
 ![Figure 4](https://github.com/SCLW/NIME2021/blob/main/img/Fig04.jpg)
 *Figure 4: Relation between the supply voltage and the frequency of the oscillator.*
 
