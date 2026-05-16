@@ -1,4 +1,4 @@
-
+[![DOI](https://img.shields.io/badge/DOI-10.21428%2F92fbeb44.a9db4e9c-blue)](https://doi.org/10.21428/92fbeb44.a9db4e9c)
 
 ![NIME_Poster](https://github.com/SCLW/NIME2021/blob/main/img/210515_Nime_16x9_04.JPG)
 *Poster design by Rebecca Zink*
